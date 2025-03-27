@@ -1,4 +1,4 @@
-module github.com/hexcraft-biz/xuuid
+module github.com/Loopmaas/xuuid
 
 go 1.21.1
 
